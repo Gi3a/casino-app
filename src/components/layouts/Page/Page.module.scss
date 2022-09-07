@@ -1,0 +1,24 @@
+.page {
+	padding: 0;
+	margin: 0;
+	background: #072333;
+	font-family: din-2014, sans-serif;
+	font-weight: 800;
+	font-style: normal;
+
+	min-height: 100vh;
+
+	h1 {
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+		font-weight: bold;
+		color: #ffd900;
+
+		&>img {
+			width: 40px;
+			margin: 5px;
+			margin-right: 5px;
+		}
+	}
+}

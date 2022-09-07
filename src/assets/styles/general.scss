@@ -1,0 +1,32 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+	font-family: 'Montserrat', sans-serif;
+}
+
+body {
+	overflow-x: hidden;
+}
+
+h1,
+h2 {
+	color: #243473;
+}
+
+h1,
+h2,
+h3,
+p,
+span {
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+svg {
+	margin: 0 3px;
+}
